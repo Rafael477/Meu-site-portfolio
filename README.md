@@ -64,8 +64,9 @@ Se quiser conversar sobre seu projeto ou ideia, agende uma reunião pelo site. B
 - Data e hora disponíveis  
 - Sua ideia ou necessidade  
 
-📅 Estou pronto para transformar sua ideia em um site incrível!
-
+<p align="center">
+  <strong>📅 Estou pronto para transformar sua ideia em um site incrível!</strong>
+</p>
 
 <p align="center">
   <strong>🚀 Obrigado por visitar meu portfólio!</strong>
