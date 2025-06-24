@@ -11,7 +11,6 @@
   <a href="#contato">📬 Contato</a>
 </p>
 
----
 
 <h2>🧠 Sobre o Projeto</h2>
 
@@ -23,7 +22,6 @@ O site é dividido em seções intuitivas e objetivas:
 - **Serviços:** Lista do que ofereço como desenvolvedor.
 - **Contato:** Formulário para agendamentos.
 
----
 
 <h2>👨‍💻 Sobre Mim</h2>
 
@@ -38,7 +36,6 @@ Trabalho com:
 
 Meu foco é entregar resultados que geram valor para negócios e projetos pessoais. Acredito em sites visualmente atrativos, funcionais e com excelente usabilidade.
 
----
 
 <h2 id="projetos">📸 Portfólio</h2>
 
@@ -48,7 +45,6 @@ Meu foco é entregar resultados que geram valor para negócios e projetos pessoa
 | **Landing Page de Produto**| Foco em conversão para produto digital.                        |
 | **Portfólio de Fotógrafo** | Galeria minimalista para destacar trabalhos fotográficos.      |
 
----
 
 <h2 id="serviços">🛠️ Serviços</h2>
 
@@ -58,7 +54,6 @@ Meu foco é entregar resultados que geram valor para negócios e projetos pessoa
 ✅ Integração com redes sociais e formulários  
 ✅ Consultoria para presença digital e design web
 
----
 
 <h2 id="contato">📬 Contato</h2>
 
@@ -71,7 +66,6 @@ Se quiser conversar sobre seu projeto ou ideia, agende uma reunião pelo site. B
 
 📅 Estou pronto para transformar sua ideia em um site incrível!
 
----
 
 <p align="center">
   <strong>🚀 Obrigado por visitar meu portfólio!</strong>
